@@ -24,6 +24,7 @@ function App() {
     <>
       <input type="checkbox" name="" id="" onChange={handleChangeTheme} />
       <h1>Hello</h1>
+      <span>World</span>
       <p>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias quod
         ullam ducimus libero consequuntur, quasi laboriosam quis facere
